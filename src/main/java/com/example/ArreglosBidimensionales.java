@@ -1,8 +1,6 @@
 package main.java.com.example;
 
 public class ArreglosBidimensionales {
-    package main.java.com.example;
-
     public void declararCrearMatrices() {
         // Imagina esto como una tabla de Excel de 3 filas y 2 columnas
         int[][] miTabla = new int[3][2]; 

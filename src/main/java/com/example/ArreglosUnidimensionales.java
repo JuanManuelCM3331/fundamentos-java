@@ -1,8 +1,4 @@
 package main.java.com.example;
-
-public class ArreglosUnidimensionales {
-    package main.java.com.example;
-
 public class ArreglosUnidimensionales {
 
     public void declararCrearInicializar() {
@@ -49,6 +45,4 @@ public class ArreglosUnidimensionales {
         int[] nuevo = {1, 2, 3};
         return nuevo; // Aquí soltamos el array para que alguien más lo use
     }
-}
-
 }

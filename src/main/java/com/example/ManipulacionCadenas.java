@@ -1,7 +1,6 @@
 package main.java.com.example;
 
 public class ManipulacionCadenas {
-    package main.java.com.example;
 
     public void demostrarConcatenacion() {
         String hola = "Hola";

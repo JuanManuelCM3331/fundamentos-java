@@ -1,7 +1,6 @@
 package main.java.com.example;
 
 public class MetodosEstaticosSimples {
-    package main.java.com.example;
 
     public static void ejemploDeclaracionLlamada() {
         // 'void' significa que no devuelve nada, solo ejecuta el código.
